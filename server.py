@@ -91,13 +91,18 @@ def cook(
         }
 
     item = DB[resolved]
-    if mode not in item:
-        return {
-            "found": False,
-            "message": "Režim sa pre túto potravinu nenašiel.",
-            "available_modes": sorted(item.keys()),
-            "food": resolved
-        }
+ if mode not in item:
+    # Automaticky vyber prvý dostupný režim
+    first_mode = list(item.keys())[0]
+
+    return {
+        "found": True,
+        "food": resolved,
+        "requested_mode": mode,
+        "mode_used": first_mode,
+        "warning": f"Režim '{mode}' nie je v manuáli dostupný. Použil som '{first_mode}'.",
+        "results": item[first_mode]
+    }
 
     mode_obj = item[mode]
 
@@ -127,3 +132,4 @@ def cook(
         "mode": mode,
         "results": mode_obj
     }
+
