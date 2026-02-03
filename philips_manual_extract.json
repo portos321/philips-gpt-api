@@ -1,0 +1,292 @@
+{
+  "Tenké mrazené hranolčeky (7×7 mm)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "800 g",
+        "temp": "200°C",
+        "time": "28–31 min",
+        "note": "Medzitým 2-krát potraste/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "28–30 min",
+        "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Domáce hranolky (10×10 mm)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "800 g / 28 oz",
+        "temp": "180°C",
+        "time": "30–40 min",
+        "note": "Medzitým 2-krát potraste/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "300 g / 11 oz",
+        "temp": "180°C",
+        "time": "30–38 min",
+        "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Mrazené kuracie nugety": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "600 g",
+        "temp": "200°C",
+        "time": "10–20 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "20–22 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Mrazené jarné závitky": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "600 g",
+        "temp": "200°C",
+        "time": "18–24 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "20–23 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Hamburger (cca 150 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "4 placky",
+        "temp": "200°C",
+        "time": "15–20 min",
+        "note": "Otočte v polovici smaženia"
+      },
+      "Malá nádoba": {
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "21–24 min",
+        "note": "Otočte v polovici smaženia"
+      }
+    }
+  },
+  "Sekaná": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "1200 g / 42 oz",
+        "temp": "150°C",
+        "time": "55–60 min",
+        "note": "Používajte príslušenstvo na pečenie"
+      }
+    }
+  },
+  "Mäsové kotlety bez kosti (cca 150 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "4 kotlety",
+        "temp": "200°C",
+        "time": "15–20 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "300 g / 11 oz",
+        "temp": "200°C",
+        "time": "20–22 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Tenké klobásky (cca 50 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "10 kusy",
+        "temp": "200°C",
+        "time": "11–15 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "6 kusy",
+        "temp": "200°C",
+        "time": "13–17 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Kuracie stehná (cca 125 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "10 kusy",
+        "temp": "180°C",
+        "time": "27–32 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "5 kusy",
+        "temp": "180°C",
+        "time": "28–30 min",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Kuracie prsia (cca 160 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "5 kusy",
+        "temp": "180°C",
+        "time": "15–25 min",
+        "note": "Otočte v polovici smaženia"
+      },
+      "Malá nádoba": {
+        "max": "3 kusy",
+        "temp": "180°C",
+        "time": "20–25 min",
+        "note": "Otočte v polovici smaženia"
+      }
+    }
+  },
+  "Celé kurča": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "1200 g / 42 oz",
+        "temp": "180°C",
+        "time": "50–60 min",
+        "note": ""
+      }
+    }
+  },
+  "Celé ryby (cca 300–400 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "3 ryba",
+        "temp": "180°C",
+        "time": "20–25 min",
+        "note": ""
+      },
+      "Malá nádoba": {
+        "max": "1 kus",
+        "temp": "180°C",
+        "time": "24–26 min",
+        "note": ""
+      }
+    }
+  },
+  "Rybie filety (cca 200 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "5 kusy",
+        "temp": "160°C",
+        "time": "25–32 min",
+        "note": ""
+      },
+      "Malá nádoba": {
+        "max": "2 kusy",
+        "temp": "160°C",
+        "time": "25–32 min",
+        "note": ""
+      }
+    }
+  },
+  "Zmiešaná zelenina (nahrubo nasekaná)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "1000 g / 28 oz",
+        "temp": "180°C",
+        "time": "18–23 min",
+        "note": "Nastavte čas podľa chuti; potraste/otočte/miešajte"
+      },
+      "Malá nádoba": {
+        "max": "400 g / 14 oz",
+        "temp": "180°C",
+        "time": "12–25 min",
+        "note": "Čas podľa chuti; v polovici pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Muffiny (cca 50 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "9 kusy",
+        "temp": "160°C",
+        "time": "13–15 min",
+        "note": "Použite košíčky na muffiny"
+      },
+      "Malá nádoba": {
+        "max": "6 kusy",
+        "temp": "160°C",
+        "time": "19–25 min",
+        "note": "Použite košíčky na muffiny"
+      }
+    }
+  },
+  "Koláč": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "500 g / 18 oz",
+        "temp": "140°C",
+        "time": "35–40 min",
+        "note": "Použite XL nádobu; pred vybratím skontrolujte"
+      }
+    }
+  },
+  "Predpečený chlieb/rožky (cca 60 g)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "6 kusy",
+        "temp": "200°C",
+        "time": "6–8 min",
+        "note": ""
+      },
+      "Malá nádoba": {
+        "max": "3 kusy",
+        "temp": "200°C",
+        "time": "6–8 min",
+        "note": ""
+      }
+    }
+  },
+  "Vegánske (napr. falafel)": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "12 kusy",
+        "temp": "180°C",
+        "time": "12–15 min",
+        "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "max": "12 kusy",
+        "temp": "190°C",
+        "time": "15–18 min",
+        "note": "40 g/ks; 2–3× pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Domáci chlieb": {
+    "Teplý vzduch": {
+      "Veľká nádoba": {
+        "max": "550 g / 28 oz",
+        "temp": "150°C",
+        "time": "33–35 min",
+        "note": "Použite extra veľký hrniec; cesto čo najplochejšie; pred vybratím skontrolujte"
+      }
+    }
+  },
+  "Celé zemiaky (cca 250–300 g)": {
+    "Para": {
+      "Veľká nádoba": {
+        "max": "4 kusy",
+        "temp": "100°C",
+        "time": "45–55 min",
+        "note": ""
+      }
+    }
+  }
+}
