@@ -1,32 +1,18 @@
 {
-  "Tenké mrazené hranolčeky (7×7 mm)": {
-    "Teplý vzduch": {
-      "Veľká nádoba": {
-        "max": "800 g",
-        "temp": "200°C",
-        "time": "28–31 min",
-        "note": "Medzitým 2-krát potraste/otočte/premiešajte"
-      },
-      "Malá nádoba": {
-        "max": "300 g",
-        "temp": "200°C",
-        "time": "28–30 min",
-        "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
-      }
-    }
-  },
   "Domáce hranolky (10×10 mm)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "800 g / 28 oz",
         "temp": "180°C",
-        "time": "30–40 min",
+        "time": "30–40",
         "note": "Medzitým 2-krát potraste/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "300 g / 11 oz",
         "temp": "180°C",
-        "time": "30–38 min",
+        "time": "30–38",
         "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
       }
     }
@@ -34,15 +20,17 @@
   "Mrazené kuracie nugety": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "600 g",
         "temp": "200°C",
-        "time": "10–20 min",
+        "time": "10–20",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "300 g",
         "temp": "200°C",
-        "time": "20–22 min",
+        "time": "20–22",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       }
     }
@@ -50,15 +38,17 @@
   "Mrazené jarné závitky": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "600 g",
         "temp": "200°C",
-        "time": "18–24 min",
+        "time": "18–24",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "300 g",
         "temp": "200°C",
-        "time": "20–23 min",
+        "time": "20–23",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       }
     }
@@ -66,15 +56,17 @@
   "Hamburger (cca 150 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "4 placky",
         "temp": "200°C",
-        "time": "15–20 min",
+        "time": "15–20",
         "note": "Otočte v polovici smaženia"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "300 g",
         "temp": "200°C",
-        "time": "21–24 min",
+        "time": "21–24",
         "note": "Otočte v polovici smaženia"
       }
     }
@@ -82,9 +74,10 @@
   "Sekaná": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "1200 g / 42 oz",
         "temp": "150°C",
-        "time": "55–60 min",
+        "time": "55–60",
         "note": "Používajte príslušenstvo na pečenie"
       }
     }
@@ -92,15 +85,17 @@
   "Mäsové kotlety bez kosti (cca 150 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "4 kotlety",
         "temp": "200°C",
-        "time": "15–20 min",
+        "time": "15–20",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "300 g / 11 oz",
         "temp": "200°C",
-        "time": "20–22 min",
+        "time": "20–22",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       }
     }
@@ -108,15 +103,17 @@
   "Tenké klobásky (cca 50 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "10 kusy",
         "temp": "200°C",
-        "time": "11–15 min",
+        "time": "11–15",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "6 kusy",
         "temp": "200°C",
-        "time": "13–17 min",
+        "time": "13–17",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       }
     }
@@ -124,31 +121,53 @@
   "Kuracie stehná (cca 125 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "10 kusy",
         "temp": "180°C",
-        "time": "27–32 min",
+        "time": "27–32",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "5 kusy",
         "temp": "180°C",
-        "time": "28–30 min",
+        "time": "28–30",
         "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    },
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "10 kusy",
+        "temp": "180°C",
+        "time": "27–30",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    },
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "10 kusy",
+        "temp": "100°C",
+        "time": "30–40",
+        "note": ""
       }
     }
   },
   "Kuracie prsia (cca 160 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "5 kusy",
         "temp": "180°C",
-        "time": "15–25 min",
+        "time": "15–25",
         "note": "Otočte v polovici smaženia"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "3 kusy",
         "temp": "180°C",
-        "time": "20–25 min",
+        "time": "20–25",
         "note": "Otočte v polovici smaženia"
       }
     }
@@ -156,9 +175,19 @@
   "Celé kurča": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "1200 g / 42 oz",
         "temp": "180°C",
-        "time": "50–60 min",
+        "time": "50–60",
+        "note": ""
+      }
+    },
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "1200 g / 42 oz",
+        "temp": "180°C",
+        "time": "50–60",
         "note": ""
       }
     }
@@ -166,15 +195,35 @@
   "Celé ryby (cca 300–400 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "3 ryba",
         "temp": "180°C",
-        "time": "20–25 min",
+        "time": "20–25",
         "note": ""
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "1 kus",
         "temp": "180°C",
-        "time": "24–26 min",
+        "time": "24–26",
+        "note": ""
+      }
+    },
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "3 kusy",
+        "temp": "200°C",
+        "time": "18–21",
+        "note": "V polovici pečenia pretrepte/otočte/premiešajte"
+      }
+    },
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "3 kusy",
+        "temp": "100°C",
+        "time": "18–22",
         "note": ""
       }
     }
@@ -182,31 +231,44 @@
   "Rybie filety (cca 200 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "5 kusy",
         "temp": "160°C",
-        "time": "25–32 min",
+        "time": "25–32",
         "note": ""
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "2 kusy",
         "temp": "160°C",
-        "time": "25–32 min",
+        "time": "25–32",
         "note": ""
+      }
+    },
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "5 kusy",
+        "temp": "160°C",
+        "time": "20–21",
+        "note": "Pridajte 10 g repkového oleja"
       }
     }
   },
   "Zmiešaná zelenina (nahrubo nasekaná)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "1000 g / 28 oz",
         "temp": "180°C",
-        "time": "18–23 min",
+        "time": "18–23",
         "note": "Nastavte čas podľa chuti; potraste/otočte/miešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "400 g / 14 oz",
         "temp": "180°C",
-        "time": "12–25 min",
+        "time": "12–25",
         "note": "Čas podľa chuti; v polovici pretrepte/otočte/premiešajte"
       }
     }
@@ -214,15 +276,17 @@
   "Muffiny (cca 50 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "9 kusy",
         "temp": "160°C",
-        "time": "13–15 min",
+        "time": "13–15",
         "note": "Použite košíčky na muffiny"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "6 kusy",
         "temp": "160°C",
-        "time": "19–25 min",
+        "time": "19–25",
         "note": "Použite košíčky na muffiny"
       }
     }
@@ -230,25 +294,44 @@
   "Koláč": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "500 g / 18 oz",
         "temp": "140°C",
-        "time": "35–40 min",
+        "time": "35–40",
         "note": "Použite XL nádobu; pred vybratím skontrolujte"
+      }
+    },
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "800 g / 35 oz",
+        "temp": "140°C",
+        "time": "35 min",
+        "note": "XL príslušenstvo na pečenie (199×189×80 mm)"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "6 pcs",
+        "temp": "150°C",
+        "time": "20 min",
+        "note": "Pre malú nádobu použite košíčky na muffiny"
       }
     }
   },
   "Predpečený chlieb/rožky (cca 60 g)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "6 kusy",
         "temp": "200°C",
-        "time": "6–8 min",
+        "time": "6–8",
         "note": ""
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "3 kusy",
         "temp": "200°C",
-        "time": "6–8 min",
+        "time": "6–8",
         "note": ""
       }
     }
@@ -256,15 +339,33 @@
   "Vegánske (napr. falafel)": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "12 kusy",
         "temp": "180°C",
-        "time": "12–15 min",
+        "time": "12–15",
         "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
       },
       "Malá nádoba": {
+        "section": "Food table",
         "max": "12 kusy",
         "temp": "190°C",
-        "time": "15–18 min",
+        "time": "15–18",
+        "note": "40 g/ks; 2–3× pretrepte/otočte/premiešajte"
+      }
+    },
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "12 kusy",
+        "temp": "180°C",
+        "time": "12 min",
+        "note": "40 g/ks; 2–3× pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "8 ks",
+        "temp": "190°C",
+        "time": "15 min",
         "note": "40 g/ks; 2–3× pretrepte/otočte/premiešajte"
       }
     }
@@ -272,19 +373,430 @@
   "Domáci chlieb": {
     "Teplý vzduch": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "550 g / 28 oz",
         "temp": "150°C",
-        "time": "33–35 min",
+        "time": "33–35",
         "note": "Použite extra veľký hrniec; cesto čo najplochejšie; pred vybratím skontrolujte"
+      }
+    },
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "550 g / 19 oz",
+        "temp": "180°C",
+        "time": "30–35",
+        "note": "Extra veľký hrniec; cesto čo najplochejšie; skontrolujte"
+      }
+    }
+  },
+  "Tenké mrazené hranolčeky (7×7 mm)": {
+    "Teplý vzduch": {
+      "Malá nádoba": {
+        "section": "Food table",
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "28–30",
+        "note": "Medzitým 2–3× pretrepte/otočte/premiešajte"
+      }
+    }
+  },
+  "Zmrazené zemiakové chuťovky": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "800 g",
+        "temp": "200°C",
+        "time": "28 min",
+        "note": "Potato-based frozen snacks; pripomenutie potrasenia 2×"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "300 g",
+        "temp": "200°C",
+        "time": "30 min",
+        "note": "Potato-based frozen snacks; pripomenutie potrasenia 2×"
+      }
+    }
+  },
+  "Steak (hovädzie/bravčové kotlety)": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "600 g",
+        "temp": "200°C",
+        "time": "20 min",
+        "note": "Hrúbka 2–2,5 cm; 200 g/plátok"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "400 g",
+        "temp": "200°C",
+        "time": "22 min",
+        "note": "Hrúbka 2–2,5 cm; 200 g/plátok"
+      }
+    }
+  },
+  "Čerstvé zemiaky": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "800 g",
+        "temp": "180°C",
+        "time": "30 min",
+        "note": "Kocky; namočiť 30 min; 1/4–1 PL oleja; potrasenie 2×"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "300 g",
+        "temp": "180°C",
+        "time": "35 min",
+        "note": "Kocky; namočiť 30 min; 1/4–1 PL oleja; potrasenie 2×"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "800 g",
+        "temp": "180°C",
+        "time": "26 min",
+        "note": "Kocky; namočiť 30 min; 1/4–1 PL oleja; potrasenie 2×"
+      }
+    },
+    "Para (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "800 g",
+        "temp": "100°C",
+        "time": "35 min",
+        "note": "Nakrájajte na kocky"
+      }
+    }
+  },
+  "Kuracie stehná": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "8–10 ks",
+        "temp": "180°C",
+        "time": "32 min",
+        "note": "120–130 g/stehno; 2–3× pretrepte/otočte/premiešajte"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "4–5 ks",
+        "temp": "180°C",
+        "time": "36 min",
+        "note": "120–130 g/stehno; 2–3× pretrepte/otočte/premiešajte"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "8–10 ks",
+        "temp": "180°C",
+        "time": "27 min",
+        "note": "120–130 g/stehno; 2–3× premiešajte"
+      }
+    },
+    "Para (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "8–10 ks",
+        "temp": "100°C",
+        "time": "40 min",
+        "note": "120–130 g/stehno"
+      }
+    }
+  },
+  "Ryby (ryby a morské plody)": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "600 g",
+        "temp": "180°C",
+        "time": "23 min",
+        "note": "Celá ryba s kožou cca 300 g"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "300 g",
+        "temp": "180°C",
+        "time": "25 min",
+        "note": "Celá ryba s kožou cca 300 g"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "600 g",
+        "temp": "200°C",
+        "time": "18 min",
+        "note": "Celá ryba s kožou cca 300 g"
+      }
+    },
+    "Para (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "600 g",
+        "temp": "100°C",
+        "time": "20 min",
+        "note": "Celá ryba s kožou cca 300 g"
+      }
+    }
+  },
+  "Zelenina": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "1000 g",
+        "temp": "180°C",
+        "time": "22 min",
+        "note": "Nahrubo nakrájané; zmes (baklažán, cuketa, paprika, cibuľa)"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "400 g",
+        "temp": "180°C",
+        "time": "25 min",
+        "note": "Nahrubo; zmes (baklažán, cuketa, paprika, cibuľa)"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "550 g",
+        "temp": "160°C",
+        "time": "19 min",
+        "note": "Koreňová zelenina (brokolica/karfiol); pri miešanej zelenine nastaviť 200°C"
+      }
+    },
+    "Para (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "550 g",
+        "temp": "100°C",
+        "time": "14 min",
+        "note": "Koreňová zelenina (karfiol, brokolica)"
+      }
+    }
+  },
+  "Chlieb": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "500 g",
+        "temp": "180°C",
+        "time": "35 min",
+        "note": "Extra veľký hrniec; cesto čo najplochejšie; pred vybratím skontrolujte"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "300 g",
+        "temp": "160°C",
+        "time": "40 min",
+        "note": "Použite príslušenstvo na pečenie"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "500 g",
+        "temp": "180°C",
+        "time": "30 min",
+        "note": "Extra veľký hrniec; cesto čo najplochejšie; skontrolujte"
+      }
+    }
+  },
+  "Opakované ohrievanie": {
+    "Teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "",
+        "temp": "160°C",
+        "time": "5 min",
+        "note": "Čas upravte podľa potravín a množstva"
+      },
+      "Malá nádoba": {
+        "section": "Predvoľba",
+        "max": "",
+        "temp": "170°C",
+        "time": "6 min",
+        "note": "Čas upravte podľa potravín a množstva"
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "",
+        "temp": "150°C",
+        "time": "20 min",
+        "note": "Čas upravte podľa potravín a množstva"
+      }
+    }
+  },
+  "Čerstvé zemiakové kocky": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "800 g",
+        "temp": "180°C",
+        "time": "26–35",
+        "note": "Medzitým 2× potraste/otočte/premiešajte"
+      }
+    },
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "800 g",
+        "temp": "100°C",
+        "time": "28–35",
+        "note": ""
+      }
+    }
+  },
+  "Kuracie prsia (cca 200 g)": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "4 kusy",
+        "temp": "160°C",
+        "time": "20–22",
+        "note": "Pridajte 10 g repkového oleja"
+      }
+    },
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "4 kusy",
+        "temp": "100°C",
+        "time": "20–30",
+        "note": ""
+      }
+    }
+  },
+  "Miešaná zelenina": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "1000 g / 35 oz",
+        "temp": "200°C",
+        "time": "19–21",
+        "note": "Čas podľa chuti; medzitým 2× premiešajte"
+      }
+    }
+  },
+  "Karfiol": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "600 g",
+        "temp": "160°C",
+        "time": "19–21",
+        "note": "Medzitým 2× premiešajte; +10 g repkového oleja"
+      }
+    }
+  },
+  "Mrkva": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "600 g",
+        "temp": "180°C",
+        "time": "19–21",
+        "note": "Medzitým 2× premiešajte; +10 g repkového oleja"
+      }
+    }
+  },
+  "Knedličky": {
+    "Para + teplý vzduch": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "400 g / 14 oz",
+        "temp": "160°C",
+        "time": "15–18",
+        "note": ""
+      }
+    },
+    "Para + teplý vzduch (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "400 g",
+        "temp": "160°C",
+        "time": "15 min",
+        "note": ""
+      }
+    },
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "400 g / 14 oz",
+        "temp": "100°C",
+        "time": "15–20",
+        "note": ""
+      }
+    },
+    "Para (predvoľby)": {
+      "Veľká nádoba": {
+        "section": "Predvoľba",
+        "max": "400 g",
+        "temp": "100°C",
+        "time": "20 min",
+        "note": ""
       }
     }
   },
   "Celé zemiaky (cca 250–300 g)": {
     "Para": {
       "Veľká nádoba": {
+        "section": "Food table",
         "max": "4 kusy",
         "temp": "100°C",
-        "time": "45–55 min",
+        "time": "45–55",
+        "note": ""
+      }
+    }
+  },
+  "Koreňová zelenina (ako brokolica)": {
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "600 g",
+        "temp": "100°C",
+        "time": "10–14",
+        "note": ""
+      }
+    }
+  },
+  "Bravčové rebierka": {
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "300 g / 11 oz",
+        "temp": "100°C",
+        "time": "30–35",
+        "note": "Použite tanier určitej veľkosti"
+      }
+    }
+  },
+  "Ryža": {
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "320 g / 11 oz",
+        "temp": "100°C",
+        "time": "25–40",
+        "note": "Použite nádobu na varenie; pridajte 320 ml vody (pomer 1:1,2)"
+      }
+    }
+  },
+  "Yam/sladké zemiaky (cca 100 g)": {
+    "Para": {
+      "Veľká nádoba": {
+        "section": "Food table",
+        "max": "8 kusy",
+        "temp": "100°C",
+        "time": "45–60",
         "note": ""
       }
     }
