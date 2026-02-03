@@ -7,7 +7,7 @@ from difflib import get_close_matches
 
 app = FastAPI(title="Philips NA55x Manual API", version="2.1")
 
-DB_PATH = os.environ.get("DB_PATH", "philips_complete.json")  # použi komplet JSON
+DB_PATH = os.environ.get("DB_PATH", "philips_manual_extract.json")  # použi komplet JSON
 
 with open(DB_PATH, "r", encoding="utf-8") as f:
     DB = json.load(f)
@@ -178,3 +178,4 @@ def cook(
         "mode": mode,
         "results": mode_obj
     }
+
